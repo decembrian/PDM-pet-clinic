@@ -4,7 +4,7 @@
 
     <groupId>pdm.petclinic</groupId>
     <artifactId>PoshaDcm-pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -45,6 +45,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/decembrian/PDM-pet-clinic.git</developerConnection>
+    <tag>PoshaDcm-pet-clinic-0.0.1</tag>
   </scm>
 
 </project>
