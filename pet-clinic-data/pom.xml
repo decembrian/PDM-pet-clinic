@@ -3,11 +3,12 @@
     <parent>
         <artifactId>PoshaDcm-pet-clinic</artifactId>
         <groupId>pdm.petclinic</groupId>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>pet-clinic-data</artifactId>
+  <version>0.0.1</version>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
@@ -65,6 +66,6 @@
     </build>
 
   <scm>
-    <tag>PoshaDcm-pet-clinic-0.0.1</tag>
+    <tag>PoshaDcm-pet-clinic-0.0.2</tag>
   </scm>
 </project>
