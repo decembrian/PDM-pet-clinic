@@ -44,7 +44,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:decembrian/PDM-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:ssh:git@github.com:decembrian/PDM-pet-clinic.git</developerConnection>
     <tag>PoshaDcm-pet-clinic-0.0.1</tag>
   </scm>
 
