@@ -2,11 +2,7 @@ package pdm.petclinic.poshadcmpetclinic.services;
 
 import pdm.petclinic.poshadcmpetclinic.model.Pet;
 
-import java.util.Set;
 
-public interface PetService {
+public interface PetService extends CrudService<Pet, Long>{
 
-    Pet findById(Long id);
-    Pet save(Pet pet);
-    Set<Pet> findAll();
 }
