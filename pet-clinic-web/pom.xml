@@ -7,7 +7,6 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>pet-clinic-web</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
@@ -23,7 +22,7 @@
         <dependency>
             <groupId>pdm.petclinic</groupId>
             <artifactId>pet-clinic-data</artifactId>
-            <version>0.0.2-SNAPSHOT</version>
+            <version>0.0.3-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
