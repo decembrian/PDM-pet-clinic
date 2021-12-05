@@ -84,6 +84,10 @@
         </dependency>
     </dependencies>
 
+  <scm>
+    <tag>PoshaDcm-pet-clinic-0.0.1</tag>
+  </scm>
+
     <build>
         <plugins>
             <plugin>
@@ -120,8 +124,4 @@
             </plugin>
         </plugins>
     </build>
-
-  <scm>
-    <tag>PoshaDcm-pet-clinic-0.0.1</tag>
-  </scm>
 </project>
